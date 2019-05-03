@@ -6,7 +6,7 @@
 	"version": "1.0",
 	"dependencies": {
 		"package-name": "version",
-		"express": "2.10.0"
+		"express": "~2.10.0"
 	},
 	"main": "server.js",
 	"scripts": {
