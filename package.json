@@ -1,7 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"description": "a clone repo for node.js learning",
+	"keywords": ["ok","mana","yes mana"],
+	"license": "none",
+	"version": "1.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"package-name": "version",
+		"express": "2.10.0"
 	},
 	"main": "server.js",
 	"scripts": {
